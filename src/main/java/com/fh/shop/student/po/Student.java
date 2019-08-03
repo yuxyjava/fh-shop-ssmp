@@ -8,6 +8,7 @@ import java.io.Serializable;
 public class Student implements Serializable {
 
     private String stuName;
-
+    private String passWord;
+    private String a;
     private int age;
 }
